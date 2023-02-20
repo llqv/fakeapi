@@ -1,134 +1,82 @@
 {
-  "category": [
-    {
-      "id": 1,
-      "name": "Áo T-shikt"
-    },
-    {
-      "id": 2,
-      "name": "Áo Hoode"
-    },
-    {
-      "id": 3,
-      "name": "Áo khoác"
-    },
-    {
-      "id": 4,
-      "name": "Áo du lịch"
-    }
-  ],
-  "size": [
-    {
-      "id": 1,
-      "name": "Small"
-    },
-    {
-      "id": 2,
-      "name": "Medium"
-    },
-    {
-      "id": 3,
-      "name": "Large"
-    },
-    {
-      "id": 4,
-      "name": "XL"
-    },
-    {
-      "id": 5,
-      "name": "2XL"
-    },
-    {
-      "id": 6,
-      "name": "3XL"
-    }
-  ],
   "products": [
     {
-      "name": "Pro 1 update",
-      "price": 60000,
-      "desc": "Áo đẹp không, áo này đẹp thế 3k",
-      "categoryId": "1",
-      "size": "6",
-      "img": "https://res.cloudinary.com/dqsykuvvc/image/upload/v1665938485/asm_angular/f1_yyv3ro.jpg",
-      "id": 1
+      "id": 7,
+      "name": "Product 7",
+      "price": "700",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia saepe animi, impedit quibusdam laboriosam recusandae.",
+      "category": "Category 1"
     },
     {
-      "name": "Pro 2",
-      "price": 20000,
-      "desc": "Áo đẹp không, áo này đẹp thế",
-      "categoryId": "2",
-      "size": "3",
-      "img": "https://res.cloudinary.com/dqsykuvvc/image/upload/v1665938485/asm_angular/f2_mmkqlr.jpg",
-      "id": 2
+      "id": 8,
+      "name": "Product 8",
+      "price": "800",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia saepe animi, impedit quibusdam laboriosam recusandae.",
+      "category": "Category 3"
     },
     {
-      "name": "Pro 3",
-      "price": 20000,
-      "desc": "Áo đẹp không, áo này đẹp thế",
-      "categoryId": "3",
-      "size": "1",
-      "img": "https://res.cloudinary.com/dqsykuvvc/image/upload/v1665938485/asm_angular/f3_opcfql.jpg",
-      "id": 3
+      "id": 9,
+      "name": "Product 9",
+      "price": "900",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia saepe animi, impedit quibusdam laboriosam recusandae.",
+      "category": "Category 2"
     },
     {
-      "name": "Pro 4",
-      "price": 20000,
-      "desc": "Áo đẹp không, áo này đẹp thế",
-      "categoryId": "4",
-      "size": "5",
-      "img": "https://res.cloudinary.com/dqsykuvvc/image/upload/v1665938486/asm_angular/f4_g7zxkj.jpg",
-      "id": 4
+      "name": "123 update",
+      "price": 123,
+      "quantity": 213,
+      "category": "category 2",
+      "description": "21321",
+      "id": 10
+    },
+    {
+      "id": 1,
+      "name": "Product 11",
+      "price": "700",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia saepe animi, impedit quibusdam laboriosam recusandae.",
+      "category": "Category 1"
+    },
+    {
+      "name": "43",
+      "price": 432,
+      "quantity": 432,
+      "category": "category 3",
+      "description": "432432",
+      "id": 11
     }
   ],
-  "SignupUsers": [
+  "categories": [
     {
-      "fullname": "admin",
+      "id": 1,
+      "name": "Category 1"
+    },
+    {
+      "id": 2,
+      "name": "Category 2"
+    },
+    {
+      "id": 3,
+      "name": "Category 3"
+    }
+  ],
+  "users": [
+    {
+      "name": "User 1",
+      "email": "user1@gmail.com",
+      "password": "user1@123",
+      "role": 1
+    },
+    {
+      "name": "User 2",
+      "email": "user2@gmail.com",
+      "password": "user2@123",
+      "role": 1
+    },
+    {
+      "name": "admin",
       "email": "admin@gmail.com",
-      "password": "",
-      "id": 1
-    },
-    {
-      "fullname": "admin1",
-      "email": "admin@gmail.com",
-      "password": "",
-      "id": 2
-    },
-    {
-      "fullname": "admin",
-      "email": "admin@gmail.com",
-      "password": "",
-      "id": 3
-    },
-    {
-      "fullname": "admin",
-      "email": "admin@gmail.com",
-      "password": "123456",
-      "id": 4
-    },
-    {
-      "fullname": "admin12",
-      "email": "admin@gmail.com",
-      "password": "123456",
-      "id": 5
-    },
-    {
-      "fullname": "admin13",
-      "email": "admin13@gmail.com",
-      "password": "123456",
-      "id": 6
-    },
-    {
-      "fullname": "admin14",
-      "email": "admin14@gmail.com",
-      "password": "123456",
-      "id": 7
-    },
-    {
-      "fullname": "Mai Khả Ninh",
-      "email": "ninhadmit147@gmail.com",
-      "password": "âdmit147",
-      "id": 8
+      "password": "admin@123",
+      "role": 0
     }
   ]
 }
