@@ -43,6 +43,138 @@
       "category": "category 3",
       "description": "432432",
       "id": 11
+    },
+     {
+      "id": 7,
+      "name": "Product 7",
+      "price": "700",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia saepe animi, impedit quibusdam laboriosam recusandae.",
+      "category": "Category 1"
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "price": "800",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia saepe animi, impedit quibusdam laboriosam recusandae.",
+      "category": "Category 3"
+    },
+    {
+      "id": 9,
+      "name": "Product 9",
+      "price": "900",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia saepe animi, impedit quibusdam laboriosam recusandae.",
+      "category": "Category 2"
+    },
+    {
+      "name": "123 update",
+      "price": 123,
+      "quantity": 213,
+      "category": "category 2",
+      "description": "21321",
+      "id": 10
+    },
+    {
+      "id": 1,
+      "name": "Product 11",
+      "price": "700",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia saepe animi, impedit quibusdam laboriosam recusandae.",
+      "category": "Category 1"
+    },
+    {
+      "name": "43",
+      "price": 432,
+      "quantity": 432,
+      "category": "category 3",
+      "description": "432432",
+      "id": 11
+    },
+     {
+      "id": 7,
+      "name": "Product 7",
+      "price": "700",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia saepe animi, impedit quibusdam laboriosam recusandae.",
+      "category": "Category 1"
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "price": "800",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia saepe animi, impedit quibusdam laboriosam recusandae.",
+      "category": "Category 3"
+    },
+    {
+      "id": 9,
+      "name": "Product 9",
+      "price": "900",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia saepe animi, impedit quibusdam laboriosam recusandae.",
+      "category": "Category 2"
+    },
+    {
+      "name": "123 update",
+      "price": 123,
+      "quantity": 213,
+      "category": "category 2",
+      "description": "21321",
+      "id": 10
+    },
+    {
+      "id": 1,
+      "name": "Product 11",
+      "price": "700",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia saepe animi, impedit quibusdam laboriosam recusandae.",
+      "category": "Category 1"
+    },
+    {
+      "name": "43",
+      "price": 432,
+      "quantity": 432,
+      "category": "category 3",
+      "description": "432432",
+      "id": 11
+    },
+     {
+      "id": 7,
+      "name": "Product 7",
+      "price": "700",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia saepe animi, impedit quibusdam laboriosam recusandae.",
+      "category": "Category 1"
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "price": "800",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia saepe animi, impedit quibusdam laboriosam recusandae.",
+      "category": "Category 3"
+    },
+    {
+      "id": 9,
+      "name": "Product 9",
+      "price": "900",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia saepe animi, impedit quibusdam laboriosam recusandae.",
+      "category": "Category 2"
+    },
+    {
+      "name": "123 update",
+      "price": 123,
+      "quantity": 213,
+      "category": "category 2",
+      "description": "21321",
+      "id": 10
+    },
+    {
+      "id": 1,
+      "name": "Product 11",
+      "price": "700",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia saepe animi, impedit quibusdam laboriosam recusandae.",
+      "category": "Category 1"
+    },
+    {
+      "name": "43",
+      "price": 432,
+      "quantity": 432,
+      "category": "category 3",
+      "description": "432432",
+      "id": 11
     }
   ],
   "categories": [
